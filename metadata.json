@@ -1,0 +1,6 @@
+{
+  "name": "ShadeMatch Studio",
+  "description": "Premium BeautyTech platform for personalized shade matching, virtual lookbooks, beauty analytics, and appointment scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
